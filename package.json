@@ -1,0 +1,25 @@
+{
+  "name": "mpris-svc",
+  "version": "0.0.1",
+  "description": "MPRIS service implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perillamint/node-mpris-svc.git"
+  },
+  "keywords": [
+    "mpris"
+  ],
+  "author": "perillamint",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/perillamint/node-mpris-svc/issues"
+  },
+  "homepage": "https://github.com/perillamint/node-mpris-svc#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
